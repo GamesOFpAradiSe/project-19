@@ -28,7 +28,7 @@ function draw() {
     }
 
     if(deformation<180 && deformation>100){
-      car.shapeColour=clour(230,230,0)
+      car.shapeColour=color(230,230,0)
     }
 
     if(deformation<100){
